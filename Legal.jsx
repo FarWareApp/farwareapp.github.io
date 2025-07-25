@@ -1,1 +1,0 @@
-export default function Legal() { return <div>Legal Notice & IP Protection</div>; }
