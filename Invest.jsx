@@ -1,1 +1,0 @@
-export default function Invest() { return <div>Invest With Us</div>; }
